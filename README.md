@@ -123,6 +123,7 @@ To run this project, install:
 * Final Figures - contains figures used in the essay
 * Raw Figures - contains raw output of plots that were later turned into final plots
 * Writing - contains essay plan and essay
+* README.md
 
 &nbsp;
 
